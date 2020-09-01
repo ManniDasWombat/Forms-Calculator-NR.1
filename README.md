@@ -1,0 +1,8 @@
+# Forms-Calculator-NR.1
+First own grafic tool in visual studio, that really works. Can also quick-add percentage calculation.
+
+
+- SHOWS CALCULATING WAY OF EVERYTHING YOU ADD
+- GRAFIC NUMPAD FOR COMFORTABLE MOUSE INPUT
+- KEEPS LAST RESULT ON SCREEN WHILE CALCULATING NEW STUFF
+- ONE CLICK PERCENTAGE CALCULATION OF YOUR RESULT
